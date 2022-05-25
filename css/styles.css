@@ -1,0 +1,14 @@
+.flashy {
+  color: red;
+  font-style: italic;
+}
+
+p.best {
+  color: purple;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+body {
+  background-color: beige;
+  text-align: center;
+}
